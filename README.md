@@ -1,5 +1,5 @@
 # SoC-2023
-SoC - dive into the world of quant
+SoC - Dive into the world of Quant
 
 Learnings until now -
 - Fundamental analysis of companies
